@@ -28,6 +28,10 @@ I'm an undergraduate student majoring in Computer Science with a primary focus o
 - **Code Optimization:** Dedicated to writing clean, efficient code. I constantly seek to improve my solutions through better data structures, algorithms, and design patterns.
 - **Object-Oriented Programming (OOP):** Strong foundation in OOP principles, aiming for modularity, flexibility, and reuse in software design.
 
+## 💼 My Professional Journey
+
+I have worked as a mobile app developer at [Q-Solutions](https://q-sols.com/), and as a wordpress developer at [K Business Solutions](https://www.kbizzsolutions.com/). 
+
 ## 📫 How to Reach Me
 
 - [**Email**](mailto:muhammad.murtaza5253@gmail.com)
