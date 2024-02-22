@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # About Me
 
-Hello there, I'm Muhammad Murtaza 👋
+##Hello there, I'm Muhammad Murtaza 👋
 
 I'm an undergraduate student majoring in Computer Science with a primary focus on Data Science and Deep Learning. I'm passionate about exploring the intersection of technology and problem-solving, and I have honed my skills in various domains to better understand and leverage computational intelligence.
 
