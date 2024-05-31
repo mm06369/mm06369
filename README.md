@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ## Hello there, I'm Muhammad Murtaza 👋
 
-I'm an undergraduate student majoring in Computer Science with a primary focus on Data Science and Deep Learning. I'm passionate about exploring the intersection of technology and problem-solving, and I have honed my skills in various domains to better understand and leverage computational intelligence.
+I have completed my bachelor's in Computer Science from Habib University, where I focused on mastering the core principles of programming. Through rigorous coursework, I have refined my technical coding skills. Additionally, I pursued project management courses to enhance my communication and presentation abilities, enabling me to effectively engage with diverse cross-functional teams. I am enthusiastic about collaborating with like-minded individuals to leverage my technical expertise for contributing to a positive impact on the world.
 
 ## 🛠 Skills & Experience
 
-- **Software Development:** Proficient in Flutter framework, with hands-on experience in developing and deploying mobile applications that are both efficient and scalable.
+- **Software Development:** Proficient in Flutter and React framework, with hands-on experience in developing and deploying mobile applications that are both efficient and scalable.
 - **Deep Learning:** Committed to exploring the depths of neural networks, implementing models, and contributing to advancements in machine learning.
 - **Data Science:** Skilled in data analysis, visualization, and leveraging statistical methods to derive meaningful insights from complex datasets.
 - **Nature-Inspired Algorithms:** Taken a course on Computational Intelligence, focusing on algorithms inspired by natural processes for optimization problems.
