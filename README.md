@@ -30,7 +30,7 @@ I have completed my bachelor's in Computer Science from Habib University, where 
 
 ## 💼 My Professional Journey
 
-I have worked as a mobile app developer at [Q-Solutions](https://q-sols.com/), and as a wordpress developer at [K Business Solutions](https://www.kbizzsolutions.com/). 
+I have worked as a mobile app developer at [Q-Solutions](https://q-sols.com/), and as a wordpress developer at [K Business Solutions](https://www.kbizzsolutions.com/). Currently, I am working as a frontend engineer at [dubizzle](https://uae.dubizzle.com/) UAE. 
 
 ## 📫 How to Reach Me
 
